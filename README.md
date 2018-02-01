@@ -1,4 +1,4 @@
-Kernel 3.4.111 for Fly IQ4511 or XOLO x8 (mt6592)
+Kernel 3.4.111 for Fly IQ4511
 =================================================
 
 Build Command ---> kernel ---> boot.img
